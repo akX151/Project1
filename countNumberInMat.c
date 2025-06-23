@@ -13,7 +13,7 @@ int main(){
     }
 
     int k, count = 0;
-    printf("Enter k element to search:\n");
+    printf("Enter k hemant to search:\n");
     scanf("%d",&k);
     for(int i = 0; i < r; i++){
         for(int j = 0; j < c; j++){
