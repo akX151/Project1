@@ -24,7 +24,7 @@ int main(){
     for(int i = 0; i < rows; i++){
         for(int j = 0; j < cols; j++){
             if(arr1[i][j] == arr2[i][j])
-                count--;
+                count++;
         }
     }
 
